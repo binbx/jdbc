@@ -1,0 +1,3 @@
+# 项目排除路径
+/jdbc_01/target/
+/jdbc_02/target/
